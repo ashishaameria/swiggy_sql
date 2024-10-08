@@ -40,7 +40,7 @@ I scraped my **personal Swiggy data** over a **one-year** period across **Pune, 
     **Insight**: **June** had the **highest number of orders (22)**, likely due to summer vacations, while **October, September, and December** had **fewer orders**, possibly due to festivals and social gatherings.
     
 
-----------
+
 
 ### Tools and Technologies
 
