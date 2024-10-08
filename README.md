@@ -2,15 +2,15 @@
 
 This project analyzes my personal Swiggy food delivery data to uncover insights into ordering patterns, delivery performance, spending trends, and customer behavior.
 
-### Project Overview
+## Project Overview
 
 The analysis focuses on delivery time, order frequency, discounts, and spending habits. SQL queries were used to reveal consumer preferences and potential areas for optimizing food delivery services.
 
-### Dataset
+## Dataset
 
 I scraped my **personal Swiggy data** over a **one-year** period across **Pune, Jaipur, and Noida**. The dataset was **cleaned** using **Power Query** in Power BI and **analyzed in MS SQL**.
 
-### Key Insights
+## Key Insights
 
 1.  **Delivery Speed and Distance Across Cities**  
     **Insight**: **Jaipur** had the **fastest delivery**, with **55%** of orders delivered **faster than average**. In **Pune**, deliveries from restaurants **over 7 km** took **61 minutes**, while in **Jaipur** and **Noida**, deliveries from **beyond 5 km** were **20-30% slower**.
@@ -42,7 +42,7 @@ I scraped my **personal Swiggy data** over a **one-year** period across **Pune, 
 
 
 
-### Tools and Technologies
+## Tools and Technologies
 
 -   **Web Scraping**: Collected Swiggy data.
 -   **Power Query (Power BI)**: Cleaned and prepared the dataset.
